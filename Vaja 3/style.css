@@ -1,0 +1,24 @@
+body {
+  background-color: #7CFC00;
+  font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+  font-size: 125%;
+}
+
+h1 {
+  color: purple;
+  margin-left: 150px;
+}
+
+p1 {
+	background-color: chocolate;
+	border-color: red;
+	font-family: “Comic Sans MS”, “Comic Sans”, cursive;
+	border-style: double;
+	border-width: 20px;
+}
+
+br {
+   #display: block;
+   #margin: 100px;
+   line-height: 150%;
+}
